@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stevens test-site</title>
-    <link>https://infallible-kilby-dfb10f.netlify.app/</link>
-    <description>Recent content on stevens test-site</description>
+    <title>Blogs on stevens test-site</title>
+    <link>https://infallible-kilby-dfb10f.netlify.app/blog/</link>
+    <description>Recent content in Blogs on stevens test-site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 12:22:49 +0000</lastBuildDate><atom:link href="https://infallible-kilby-dfb10f.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Nov 2020 12:22:49 +0000</lastBuildDate><atom:link href="https://infallible-kilby-dfb10f.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testblog 2</title>
       <link>https://infallible-kilby-dfb10f.netlify.app/blog/2020-11-29-testblog-2/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://infallible-kilby-dfb10f.netlify.app/blog/2020-11-29-test-blog/</guid>
       <description>En dit is de inhoud</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://infallible-kilby-dfb10f.netlify.app/posts/my-first-post/</link>
-      <pubDate>Sun, 29 Nov 2020 12:59:51 +0100</pubDate>
-      
-      <guid>https://infallible-kilby-dfb10f.netlify.app/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>

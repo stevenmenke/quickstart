@@ -28,12 +28,3 @@ HUGO_VERSION = "0.79.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-{
-  "name": "netlify-deps",
-  "version": "0.1.0",
-  "dependencies": {
-    "postcss-cli": "7.1.1",
-    "autoprefixer": "9.8.4"
-  }
-}
