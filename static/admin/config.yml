@@ -7,7 +7,7 @@ site_url: https://infallible-kilby-dfb10f.netlify.app/
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: 'content/blog'
+    folder: 'content/nl/blog'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
