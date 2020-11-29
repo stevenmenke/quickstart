@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/projects/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/projects/design/</loc>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/projects/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/code/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://infallible-kilby-dfb10f.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://infallible-kilby-dfb10f.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/series/quickstart/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/series/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://infallible-kilby-dfb10f.netlify.app/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://infallible-kilby-dfb10f.netlify.app/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://infallible-kilby-dfb10f.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://infallible-kilby-dfb10f.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/configuration/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/long-form-post/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/blog/</loc>
+    <lastmod>2020-05-30T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/hipster-ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/ipsum/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/startup-ipsum/</loc>
+    <lastmod>2017-11-06T12:04:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/coffee/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/coffee-ipsum/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/images/</loc>
+    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/no-date/</loc>
+  </url>
+  
+</urlset>

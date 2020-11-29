@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/</loc>
-    <lastmod>2020-11-29T12:22:49+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/</loc>
-    <lastmod>2020-11-29T12:22:49+00:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://infallible-kilby-dfb10f.netlify.app/nl/sitemap.xml</loc>
+    
+      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/2020-11-29-testblog-2/</loc>
-    <lastmod>2020-11-29T12:22:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/blog/2020-11-29-test-blog/</loc>
-    <lastmod>2020-11-29T12:20:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/posts/my-first-post/</loc>
-    <lastmod>2020-11-29T12:59:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/posts/</loc>
-    <lastmod>2020-11-29T12:59:51+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://infallible-kilby-dfb10f.netlify.app/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
